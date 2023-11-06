@@ -15,7 +15,7 @@ This Python script is designed to help you completely clean your Git repository'
 python git_history_cleaner.py --directory <path_to_repository> --message "Cleaned"
 ```
 
-![image](https://github.com/AlbertL7/Git-Commit-History-Cleaner/assets/71300144/ac6819eb-969c-4847-9d52-0771068ebab6)
+![image](https://github.com/AlbertL7/Git-Commit-History-Cleaner/assets/71300144/546f5b67-07a8-494a-9078-80dbba5ce775)
 
 ## Features
 
