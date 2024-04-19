@@ -2,6 +2,8 @@
 
 This Python script is designed to help you completely clean your Git repository's commit history. It creates a new branch with no prior commit history, adds all the current files, and force pushes this new state as the main branch. This can be useful when you want to scrub sensitive data from your history or just want to start fresh without the weight of old commits.
 
+This was primarily created because users at work did not know how to properly clean commit history from a repository after there were leaked passwords / keys of any sorts found. 
+
 ## Prerequisites
 
 - Git must be installed on your system.
